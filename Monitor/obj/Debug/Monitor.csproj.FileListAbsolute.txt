@@ -1,0 +1,38 @@
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\Monitor\bin\Debug\Monitor.dll
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\Monitor\bin\Debug\Monitor.pdb
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\Monitor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\Monitor\obj\Debug\Monitor.dll
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\Monitor\obj\Debug\Monitor.pdb
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\Monitor\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\Monitor\bin\Debug\UI.pdb
+F:\FileMonitor\Monitor\bin\Debug\Monitor.dll
+F:\FileMonitor\Monitor\bin\Debug\Monitor.pdb
+F:\FileMonitor\Monitor\obj\Debug\Monitor.csprojAssemblyReference.cache
+F:\FileMonitor\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+F:\FileMonitor\Monitor\obj\Debug\Monitor.csproj.CopyComplete
+F:\FileMonitor\Monitor\obj\Debug\Monitor.dll
+F:\FileMonitor\Monitor\obj\Debug\Monitor.pdb
+F:\FileMonitor\Monitor\obj\Debug\UI.FileDeletedMessage.resources
+F:\FileMonitor\Monitor\obj\Debug\UI.FileRemovedMessage.resources
+F:\FileMonitor\Monitor\obj\Debug\UI.FileTooBigMessage.resources
+F:\FileMonitor\Monitor\obj\Debug\Monitor.csproj.GenerateResource.cache
+G:\FileMonitor\Monitor\bin\Debug\Monitor.dll
+G:\FileMonitor\Monitor\bin\Debug\Monitor.pdb
+G:\FileMonitor\Monitor\bin\Debug\Newtonsoft.Json.dll
+G:\FileMonitor\Monitor\obj\Debug\ResolveAssemblyReference.cache
+G:\FileMonitor\Monitor\obj\Debug\UI.FileDeletedMessage.resources
+G:\FileMonitor\Monitor\obj\Debug\UI.FileRemovedMessage.resources
+G:\FileMonitor\Monitor\obj\Debug\UI.FileTooBigMessage.resources
+G:\FileMonitor\Monitor\obj\Debug\GenerateResource.read.1.tlog
+G:\FileMonitor\Monitor\obj\Debug\GenerateResource.write.1.tlog
+G:\FileMonitor\Monitor\obj\Debug\Monitor.dll
+G:\FileMonitor\Monitor\obj\Debug\Monitor.pdb
+D:\FileMonitor\Monitor\bin\Debug\Monitor.dll
+D:\FileMonitor\Monitor\bin\Debug\Monitor.pdb
+D:\FileMonitor\Monitor\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+D:\FileMonitor\Monitor\obj\Debug\UI.FileDeletedMessage.resources
+D:\FileMonitor\Monitor\obj\Debug\UI.FileRemovedMessage.resources
+D:\FileMonitor\Monitor\obj\Debug\UI.FileTooBigMessage.resources
+D:\FileMonitor\Monitor\obj\Debug\Monitor.csproj.GenerateResource.Cache
+D:\FileMonitor\Monitor\obj\Debug\Monitor.dll
+D:\FileMonitor\Monitor\obj\Debug\Monitor.pdb

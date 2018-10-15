@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{2C23A4D1-216A-4E84-AD9C-4019EF63F03B}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Monitor</RootNamespace>
+    <AssemblyName>Monitor</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>E:\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Backup.cs" />
+    <Compile Include="BackupData.cs" />
+    <Compile Include="BackupServiceManager.cs" />
+    <Compile Include="Constants.cs" />
+    <Compile Include="DirectoryWatcher.cs" />
+    <Compile Include="FileDeletedMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FileDeletedMessage.Designer.cs">
+      <DependentUpon>FileDeletedMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FileMonitor.cs" />
+    <Compile Include="FileRemovedMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FileRemovedMessage.Designer.cs">
+      <DependentUpon>FileRemovedMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FileTooBigMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FileTooBigMessage.Designer.cs">
+      <DependentUpon>FileTooBigMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Functions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Settings.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="backup-meta\" />
+    <Folder Include="backups\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FileDeletedMessage.resx">
+      <DependentUpon>FileDeletedMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FileRemovedMessage.resx">
+      <DependentUpon>FileRemovedMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FileTooBigMessage.resx">
+      <DependentUpon>FileTooBigMessage.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

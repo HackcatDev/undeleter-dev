@@ -1,0 +1,54 @@
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\UI\bin\Debug\UI.exe.config
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\UI\bin\Debug\UI.exe
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\UI\bin\Debug\UI.pdb
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\UI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\UI\obj\Debug\UI.FileRemovedMessage.resources
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\UI\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\UI\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\UI\obj\Debug\UI.exe
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\UI\obj\Debug\UI.pdb
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\UI\obj\Debug\UI.AboutBox.resources
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\UI\obj\Debug\UI.FileDeletedMessage.resources
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\UI\obj\Debug\UI.FileTooBigMessage.resources
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\UI\obj\Debug\UI.MainWindow.resources
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\FileMonitor\UI\bin\Debug\Monitor.pdb
+F:\FileMonitor\UI\obj\Debug\UI.csprojAssemblyReference.cache
+F:\FileMonitor\UI\obj\Debug\UI.AboutBox.resources
+F:\FileMonitor\UI\obj\Debug\UI.MainWindow.resources
+F:\FileMonitor\UI\obj\Debug\UI.csproj.GenerateResource.cache
+F:\FileMonitor\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+F:\FileMonitor\UI\obj\Debug\UI.exe
+F:\FileMonitor\UI\obj\Debug\UI.pdb
+F:\FileMonitor\UI\bin\Debug\UI.exe.config
+F:\FileMonitor\UI\bin\Debug\UI.exe
+F:\FileMonitor\UI\bin\Debug\UI.pdb
+F:\FileMonitor\UI\bin\Debug\Monitor.pdb
+F:\FileMonitor\UI\obj\Debug\UI.csproj.CopyComplete
+F:\FileMonitor\UI\bin\Debug\Monitor.dll
+G:\FileMonitor\UI\bin\Debug\UI.exe.config
+G:\FileMonitor\UI\bin\Debug\UI.exe
+G:\FileMonitor\UI\bin\Debug\UI.pdb
+G:\FileMonitor\UI\bin\Debug\Monitor.dll
+G:\FileMonitor\UI\bin\Debug\Newtonsoft.Json.dll
+G:\FileMonitor\UI\bin\Debug\Monitor.pdb
+G:\FileMonitor\UI\obj\Debug\ResolveAssemblyReference.cache
+G:\FileMonitor\UI\obj\Debug\UI.AboutBox.resources
+G:\FileMonitor\UI\obj\Debug\UI.MainWindow.resources
+G:\FileMonitor\UI\obj\Debug\GenerateResource.read.1.tlog
+G:\FileMonitor\UI\obj\Debug\GenerateResource.write.1.tlog
+G:\FileMonitor\UI\obj\Debug\UI.exe
+G:\FileMonitor\UI\obj\Debug\UI.pdb
+G:\FileMonitor\UI\obj\Debug\UI.BackupViewer.resources
+F:\FileMonitor\UI\obj\Debug\UI.BackupViewer.resources
+D:\FileMonitor\UI\bin\Debug\UI.exe.config
+D:\FileMonitor\UI\bin\Debug\UI.exe
+D:\FileMonitor\UI\bin\Debug\UI.pdb
+D:\FileMonitor\UI\bin\Debug\Monitor.dll
+D:\FileMonitor\UI\bin\Debug\Monitor.pdb
+D:\FileMonitor\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\FileMonitor\UI\obj\Debug\UI.AboutBox.resources
+D:\FileMonitor\UI\obj\Debug\UI.BackupViewer.resources
+D:\FileMonitor\UI\obj\Debug\UI.MainWindow.resources
+D:\FileMonitor\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\FileMonitor\UI\obj\Debug\UI.exe
+D:\FileMonitor\UI\obj\Debug\UI.pdb
